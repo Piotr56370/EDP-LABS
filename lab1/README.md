@@ -30,4 +30,11 @@ Window. Window handling. Basic window’s form elements
 * Change behavior of different window actions (at least 3). _(when closed, the app pops a message and waits for confirmation)_ `(1 pt)`
 
 ## My windows app
+
 ![APP](./lab1.bmp)
+
+* Input text in the top textbox
+* Append text from the first textbox to the second with the [Submit] button
+* Clear the second textbox with the [Clear] button
+* Change text color of the second textbox with [Red], [Green], [Blue] buttons.
+* Elements fit on window resize
