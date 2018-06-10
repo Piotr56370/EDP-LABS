@@ -19,7 +19,7 @@ Windows Timer. Animation.
 
 ![APP](./lab4.bmp)
 
-* Add nore balls with left mouseclick
+* Add more balls with left mouseclick
 * Increase / decrease speed with mousewheel
 * Random colors / velocity
 * The balls change shape on impact
